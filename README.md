@@ -91,5 +91,4 @@ Folgende Figuren können im Spiel gesetzt werden:
 
 
 ### Starten 
-
-cabal run
+Open Powershell -> cabal run
