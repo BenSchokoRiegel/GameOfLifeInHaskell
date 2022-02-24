@@ -1,0 +1,7 @@
+/dist-newstyle/
+/*.save0
+/*.save1
+/dist/*
+
+# Allow
+!/dist/docs/
